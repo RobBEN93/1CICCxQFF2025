@@ -2,6 +2,10 @@
 **1er Congreso Iberoamericano de Computación Cuántica**
 x **Qiskit Fall Fest 2025**
 
+Notebooks:
+- [Día 2](https://colab.research.google.com/drive/1j6-Wka4-sDZ5LD1TgfglrHLEOoWvSx85?usp=sharing)
+- [Día 3](https://colab.research.google.com/drive/18uQHaor_-9ScrNdtQ0pzrq4mx8cXTCAo?usp=sharing)
+
 Referencias recomendadas:
 
 - [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)

@@ -1,6 +1,6 @@
-# Materiales del taller de introducción a la computación cuántica
-## 1er Congreso Iberoamericano de Computación Cuántica
-### Qiskit Fall Fest 2025
+### Materiales del taller de introducción a la computación cuántica
+**1er Congreso Iberoamericano de Computación Cuántica**
+**Qiskit Fall Fest 2025**
 
 Referencias recomendadas:
 

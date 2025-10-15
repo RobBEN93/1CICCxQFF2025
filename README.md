@@ -4,9 +4,9 @@
 
 Referencias recomendadas:
 
-[IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
-Qiskit [Documentation](https://quantum.cloud.ibm.com/docs/en/guides) y [Tutorials](https://quantum.cloud.ibm.com/docs/en/tutorials)
-[Notas del Club de Computación Cuántica](https://clubcomputacioncuantica.github.com/notas)
-Nielsen & Chuang, Quantum Computation and Quantum Information (*texto estándar*)
+- [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
+- Qiskit [Documentation](https://quantum.cloud.ibm.com/docs/en/guides) y [Tutorials](https://quantum.cloud.ibm.com/docs/en/tutorials)
+- [Notas del Club de Computación Cuántica](https://clubcomputacioncuantica.github.com/notas)
+- Nielsen & Chuang, Quantum Computation and Quantum Information (*texto estándar*)
 
 [Discord del Club de Computación Cuántica](https://discord.gg/46GDw6C2Ak)
